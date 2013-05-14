@@ -2,6 +2,9 @@
 "" ~/.vimrc for user cueadm
 "" ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+" Syntax highlighting "
+syntax on
+
 " Extra commands with ",".
 let mapleader = ","
 
